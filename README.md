@@ -10,6 +10,7 @@ I have 3 RPC functions :
 @ type "/gc/run" to call accelerator capture mode  
 @ 3 gestures : "ring", "slope", "punch"  
 @ my feature is to test if the y-direction has 60% over 1000  
+@ there will be a 2-second gap between any two gestures are detect  
 
 ### (3) plot  
 @ type "/plot/run" to call the plot function  
