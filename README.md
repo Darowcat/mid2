@@ -19,4 +19,12 @@ I have 3 RPC functions :
 @ the second is my feature, if the y-direction has 60% over 1000, it will be yes(O)  
 
 ## Screen shot
-![image](https://github.com/Darowcat/mid2/blob/master/mid2/Screenshot%20from%202021-05-12%2017-40-55.png)
+![image](https://github.com/Darowcat/mid2/blob/master/mid2/Screenshot%20from%202021-05-12%2017-40-55.png)  
+
+## LED result  
+When gesture "RING" is performed, since its index is 0, both led1 and led2 are off.  
+![image](https://github.com/Darowcat/mid2/blob/master/236558.jpg)  
+When gesture "SLOPE" is performed, since its index is 1, led1 is on and led2 is off.  
+![image](https://github.com/Darowcat/mid2/blob/master/236559.jpg)  
+When gesture "RING" is performed, since its index is 2, led1 is off and led2 is on.   
+![image](https://github.com/Darowcat/mid2/blob/master/236560.jpg)  
