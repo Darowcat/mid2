@@ -16,3 +16,6 @@ I have 3 RPC functions :
 @ there will be two plots  
 @ the first is the type of gesture, 0 meeans ring, 1 means slope, 2 means punch  
 @ the second is my feature, if the y-direction has 60% over 1000, it will be yes(O)  
+
+## Screen shot
+![image](https://github.com/Darowcat/hw2/blob/master/hw2_code/222149.jpg)
