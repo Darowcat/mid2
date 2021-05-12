@@ -18,4 +18,4 @@ I have 3 RPC functions :
 @ the second is my feature, if the y-direction has 60% over 1000, it will be yes(O)  
 
 ## Screen shot
-![image](https://github.com/Darowcat/hw2/blob/master/hw2_code/222149.jpg)
+![image](https://github.com/Darowcat/mid2/blob/master/mid2/Screenshot%20from%202021-05-12%2017-40-55.png)
