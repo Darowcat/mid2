@@ -346,7 +346,7 @@ int Ges_main() {
           cnt = 0;
       }
 
-      ThisThread::sleep_for(1s);
+      ThisThread::sleep_for(2s);
     }
   }
   return 0;
